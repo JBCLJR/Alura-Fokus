@@ -12,7 +12,7 @@ const IniciarOuPausarSym = document.querySelector('.app__card-primary-butto-icon
 const TempoNaTela= document.querySelector('#timer')
 
 
-const musica = new Audio ('/sons/luna-rise-part-one.mp3')
+const musica = new Audio ('sons/luna-rise-part-one.mp3')
 const beep = new Audio ('sons/beep.mp3')
 const pausar = new Audio('sons/pause.mp3')
 const play = new Audio ('sons/play.wav')
